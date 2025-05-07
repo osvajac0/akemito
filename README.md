@@ -4,16 +4,16 @@
 
 ![banner](https://github.com/osvajac0/akemito/blob/main/banner.png)
 
-# Akemito
+# <p align="center">Akemito</p>
 
 A Linux lightweight mouse position memory tool for X11.
 
-## Features
+## <p align="center">Features</p>
 
 - Automatically saves cursor position after it remains still for `1 second`
 - Restores saved position with a keyboard shortcut `Alt+Z`
 
-## Requirements
+## <p align="center">Requirements</p>
 
 - `python3`
 - `X11` (Xorg) window system
@@ -21,7 +21,7 @@ A Linux lightweight mouse position memory tool for X11.
   - `pynput` (Python library for monitoring and controlling input devices)
   - `python-xlib` (Python interface to X11)
 
-## Installation
+## <p align="center">Installation</p>
 
 
 1. Clone or download this repository
@@ -43,15 +43,15 @@ cd akemito
 sudo ./install_akemito.sh
 ```
 
-## How It Works
+## <p align="center">How it works?</p>
 
 1. Akemito monitors your mouse cursor position
 2. When the cursor remains still for the specified time `1 second`, it prepares to save the position
 3. Once the cursor moves after being still, the position is saved
 4. Press `Alt+Z` at any time to restore the cursor to the saved position
 
-## Troubleshooting
+## <p align="center">Troubleshooting</p>
 
-### My shortcut isn't working
+### <p align="center">My shortcut isn't working</p>
 
 Make sure no other application is capturing the same keyboard shortcut. 
