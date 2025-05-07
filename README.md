@@ -29,9 +29,9 @@ A Linux lightweight mouse position memory tool for X11.
  git clone https://github.com/osvajac0/akemito.git
 ```
 2. Open the repository's directory
-'''
+```
 cd akemito
-'''
+```
 
 3. Make the install script executable:
    ```
