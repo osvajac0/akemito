@@ -34,14 +34,14 @@ cd akemito
 ```
 
 3. Make the install script executable:
-   ```
-    sudo chmod +x install_akemito.sh
-   ```
+```
+ sudo chmod +x install_akemito.sh
+```
 
 4. Run the installation script:
-   ```
-   sudo ./install_akemito.sh
-   ```
+```
+sudo ./install_akemito.sh
+```
 
 ## How It Works
 
